@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ibtisam</h1>
 
+<h3 align="center">
+Full Stack Developer | AI Enthusiast | Open Source Contributor
+</h3>
+
+<p align="center">
+I love building web applications, AI tools, and solving real-world problems.
+</p>
 <!--
 **ibtisam4project/ibtisam4project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

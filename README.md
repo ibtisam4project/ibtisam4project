@@ -30,6 +30,21 @@ I love building web applications, AI tools, and solving real-world problems.
 </a>
 
 </p>
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌱 Learning AI 
+- 🔭 Currently working on Open Source
+- 📫 Reach me: ibtisam4project@gmail.com
+- ⚡ Fun fact: I love automation
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql,django,git,github,docker,linux,vscode"/>
+
+</p>
+
+
 <!--
 **ibtisam4project/ibtisam4project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,6 +10,26 @@ I love building web applications, AI tools, and solving real-world problems.
 <p align="center">
 <img src="https://your-banner-image-url" width="100%">
 </p>
+
+
+<p align="center">
+
+<a href="https://github.com/ibtisam4project">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+</a>
+
+<a href="https://linkedin.com/in/yourname">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+</a>
+
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+
+</a>
+
+</p>
 <!--
 **ibtisam4project/ibtisam4project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
